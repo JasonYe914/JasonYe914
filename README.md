@@ -8,8 +8,6 @@
 
 I'm a third-year engineering student at Queen's University in Kingston, Ontario. I grew up doing math contests, and somewhere along the way I realized I liked writing code to solve problems even more than solving them on paper. Now most of my free time goes into building things. I lean toward the backend, where I get to think about how a system fits together and how to make a website fast.
 
-Outside of code, I'm a big volleyball fan.
-
 ### What I'm doing right now
 
 -  Interning at **GoFleet** and **ZenduIT**, building web apps that real teams use every day
