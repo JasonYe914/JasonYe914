@@ -45,7 +45,7 @@ I want to work in machine learning. What draws me in is that every decision a mo
   <img src="https://skillicons.dev/icons?i=supabase" width="10%" title="Supabase" />
 </p>
 
-<p>
+<p align="center">
   <a href="https://jasonye.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jasonyequeens/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:jason.ye914@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
