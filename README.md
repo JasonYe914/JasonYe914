@@ -1,41 +1,44 @@
-# Hi, I'm Jason Ye
+<h1 align="center">Hi, I'm Jason 👋</h1>
 
-I'm an Engineering student at Queen’s University with a passion for coding, building web applications, and creating personal projects that solve real problems. I enjoy taking ideas from concept to deployment and continuously learning new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=560&lines=Engineering+student+%40+Queen%27s;Math+nerd+turned+programmer;Working+my+way+into+machine+learning" alt="Engineering student @ Queen's · Math nerd turned programmer · Working my way into machine learning" />
+</p>
 
-## About Me
+### Who I am
 
-- Engineering student @ Queen’s University  
-- Full-stack web development and personal projects  
-- Always learning new tools and improving software design skills  
-- Interested in building practical, user-focused applications  
+I'm a third-year engineering student at Queen's University in Kingston, Ontario. I grew up doing math contests, and somewhere along the way I realized I liked writing code to solve problems even more than solving them on paper. Now most of my free time goes into building things. I lean toward the backend, where I get to think about how a system fits together and how to make a website fast.
 
-## Tech Stack
+Outside of code, I'm a big volleyball fan.
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6C2C?style=for-the-badge)
+### What I'm doing right now
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
+- 💼 Interning at **GoFleet** and **ZenduIT**, building web apps that real teams use every day
+- 🃏 Building a **poker bot** that has to make good decisions without seeing anyone else's cards
+- 🧠 Getting into **machine learning**, where my math background and my code finally meet
 
-### Tools & Systems
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge)
-![PX4](https://img.shields.io/badge/PX4-Autopilot-1E1E1E?style=for-the-badge)
+### Where I'm headed
 
-## Contact
+I want to work in machine learning. What draws me in is that every decision a model makes comes down to math: the same linear algebra and probability I used to do for fun. Next on my list:
 
-LinkedIn: https://www.linkedin.com/in/jasonyequeens/
-Email: jason.ye914@gmail.com
+- ♟️ A **chess engine**
+- 🏐 A tool that tracks my volleyball spikes, serves, blocks and receives in 3D, to show what I'm good at and what I need to work on
+
+### Tools I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,html,css" alt="Python, TypeScript, JavaScript, Java, HTML, CSS" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,redux" alt="React, Next.js, Node.js, Express, Flask, Spring Boot, Redux" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,redis,supabase" alt="Git, GitHub, Docker, Redis, Supabase" />
+</p>
+
+Also: SQL, OpenCV, MediaPipe, Leaflet, Gemini API, AssemblyAI, CI/CD, Claude Code
+
+### Say hi
+
+Want the full story? Walk through my portfolio at **[jasonye.vercel.app](https://jasonye.vercel.app)**.
+
+<p>
+  <a href="https://jasonye.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jasonyequeens/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:jason.ye914@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
