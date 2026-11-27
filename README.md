@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jason 👋</h1>
+<h1 align="center">Hi, I'm Jason </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=560&lines=Engineering+student+%40+Queen%27s;Math+nerd+turned+programmer;Working+my+way+into+machine+learning" alt="Engineering student @ Queen's · Math nerd turned programmer · Working my way into machine learning" />
@@ -12,16 +12,16 @@ Outside of code, I'm a big volleyball fan.
 
 ### What I'm doing right now
 
-- 💼 Interning at **GoFleet** and **ZenduIT**, building web apps that real teams use every day
-- 🃏 Building a **poker bot** that has to make good decisions without seeing anyone else's cards
-- 🧠 Getting into **machine learning**, where my math background and my code finally meet
+-  Interning at **GoFleet** and **ZenduIT**, building web apps that real teams use every day
+-  Building a **poker bot** that has to make good decisions without seeing anyone else's cards
+-  Getting into **machine learning**, where my math background and my code finally meet
 
 ### Where I'm headed
 
 I want to work in machine learning. What draws me in is that every decision a model makes comes down to math: the same linear algebra and probability I used to do for fun. Next on my list:
 
-- ♟️ A **chess engine**
-- 🏐 A tool that tracks my volleyball spikes, serves, blocks and receives in 3D, to show what I'm good at and what I need to work on
+-  A **chess engine**
+-  A tool that tracks my volleyball spikes, serves, blocks and receives in 3D, to show what I'm good at and what I need to work on
 
 ### Tools I use
 
@@ -32,10 +32,6 @@ I want to work in machine learning. What draws me in is that every decision a mo
 </p>
 
 Also: SQL, OpenCV, MediaPipe, Leaflet, Gemini API, AssemblyAI, CI/CD, Claude Code
-
-### Say hi
-
-Want the full story? Walk through my portfolio at **[jasonye.vercel.app](https://jasonye.vercel.app)**.
 
 <p>
   <a href="https://jasonye.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
