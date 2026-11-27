@@ -23,10 +23,35 @@ I want to work in machine learning. What draws me in is that every decision a mo
 
 ### Tools I use
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,html,css" alt="Python, TypeScript, JavaScript, Java, HTML, CSS" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring" alt="React, Next.js, Node.js, Express, Flask, Spring Boot" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,redis,supabase,redux" alt="Git, GitHub, Docker, Redis, Supabase, Redux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py" width="10%" title="Python" />
+  <img src="https://skillicons.dev/icons?i=ts" width="10%" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" width="10%" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" width="10%" title="Java" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="10%" title="SQL (PostgreSQL)" />
+  <img src="https://skillicons.dev/icons?i=html" width="10%" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="10%" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=react" width="10%" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="10%" title="Next.js" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="10%" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="10%" title="Express" />
+  <img src="https://skillicons.dev/icons?i=flask" width="10%" title="Flask" />
+  <img src="https://skillicons.dev/icons?i=spring" width="10%" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=redux" width="10%" title="Redux Toolkit" />
+  <img src="assets/icons/leaflet.svg" width="10%" title="Leaflet" />
+  <img src="https://skillicons.dev/icons?i=opencv" width="10%" title="OpenCV" />
+  <img src="assets/icons/mediapipe.svg" width="10%" title="MediaPipe" />
+  <img src="assets/icons/gemini.svg" width="10%" title="Gemini API" />
+  <br/>
+  <img src="assets/icons/assemblyai.svg" width="10%" title="AssemblyAI" />
+  <img src="https://skillicons.dev/icons?i=git" width="10%" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="10%" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="10%" title="CI/CD (GitHub Actions)" />
+  <img src="https://skillicons.dev/icons?i=docker" width="10%" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=redis" width="10%" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=supabase" width="10%" title="Supabase" />
+  <img src="assets/icons/claudecode.svg" width="10%" title="Claude Code" />
 </p>
 
 <p>
