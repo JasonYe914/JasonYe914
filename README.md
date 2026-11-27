@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jason </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=560&lines=Engineering+student+%40+Queen%27s;Math+nerd+turned+programmer;Working+my+way+into+machine+learning" alt="Engineering student @ Queen's · Math nerd turned programmer · Working my way into machine learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=560&lines=Engineering+student+%40+Queen%27s;Math+nerd+turned+programmer;Working+my+way+into+machine+learning" alt="Engineering student @ Queen's · Math enthusiast and Programmer · Working my way into machine learning" />
 </p>
 
 ### Who I am
@@ -25,8 +25,8 @@ I want to work in machine learning. What draws me in is that every decision a mo
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,ts,js,java,html,css" alt="Python, TypeScript, JavaScript, Java, HTML, CSS" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,redux" alt="React, Next.js, Node.js, Express, Flask, Spring Boot, Redux" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,redis,supabase" alt="Git, GitHub, Docker, Redis, Supabase" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,redux" alt="React, Next.js, Node.js, Express, Flask, Spring Boot" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,redis,supabase" alt="Git, GitHub, Docker, Redis, Supabase, Redux" />
 </p>
 
 <p>
