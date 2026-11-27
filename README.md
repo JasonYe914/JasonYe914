@@ -29,8 +29,6 @@ I want to work in machine learning. What draws me in is that every decision a mo
   <img src="https://skillicons.dev/icons?i=git,github,docker,redis,supabase" alt="Git, GitHub, Docker, Redis, Supabase" />
 </p>
 
-Also: SQL, OpenCV, MediaPipe, Leaflet, Gemini API, AssemblyAI, CI/CD, Claude Code
-
 <p>
   <a href="https://jasonye.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jasonyequeens/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
